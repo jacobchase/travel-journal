@@ -16,3 +16,54 @@ header > span {
   font-weight: 500;
   font-family: Inter;
 }
+
+.marker{
+  width:15px;
+  margin-left: 30px;
+}
+.Title{
+  font-size:28pt;
+  font-weight: bolder;
+  margin-left: 40px;
+}
+span {
+  font-family:Inter;
+}
+
+a {
+  color:grey;
+  font-weight: 300;
+  margin-left: 20px;
+}
+
+.Location {
+  display:flex;
+  margin-bottom: 30px;
+
+}
+.description {
+  font-size:12pt;
+  font-weight: 300;
+  margin-top: -35px;
+  margin-left: 40px;
+}
+.dates{
+  font-size: 13pt;
+  font-weight: 600;
+  margin-left: 40px;
+}
+.picture{
+  width:200px;
+  height: 220px;
+  margin-top: 30px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+article{
+  display:flex;
+}
+.text{
+  margin-top: 55px;
+  font-family:Inter;
+}
