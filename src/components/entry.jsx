@@ -12,6 +12,7 @@ export default function entry(){
     <h4 className = "dates">12 Jan, 2021 - 24 Jan, 2021</h4>
     <br></br>
     <h5 className = "description">Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.</h5>
+    <hr></hr>
     </div>
     </article>
     )
