@@ -1,4 +1,5 @@
 export default function entry(props){
+    console.log(props)
     return(
         <article>
     <div>
@@ -11,7 +12,7 @@ export default function entry(props){
     <br></br>
     <h4 className = "dates">{props.dates}</h4>
     <br></br>
-    <h5 className = "description">{props.description}</h5>
+    <h5 className = "description">{props.text}</h5>
     <hr></hr>
     </div>
     </article>
